@@ -1,5 +1,5 @@
 {
-  "name": "wc",
+  "name": "@nickthesing/bb-watch-cli",
   "version": "0.0.1",
   "description": "CLI tool for Backbase watcher Edit",
   "main": "index.js",
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/nickthesing/wc#readme",
   "dependencies": {
-    "@nickthesing/bb-watch": "0.0.1"
+    "@nickthesing/bb-watch": "0.0.2"
   }
 }
