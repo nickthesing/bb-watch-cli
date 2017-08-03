@@ -1,2 +1,2 @@
 # wc
-CLI tool for Backbase watcher
+Example CLI tool for Backbase watcher. So you are able to run 'bb-watch' globally.
