@@ -1,6 +1,6 @@
 {
   "name": "@nickthesing/bb-watch-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI tool for Backbase watcher Edit",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickthesing/wc.git"
+    "url": "git+https://github.com/nickthesing/bb-watch-cli.git"
   },
   "keywords": [
     "Backbase",
