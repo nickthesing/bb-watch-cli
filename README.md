@@ -6,7 +6,6 @@ Example CLI tool for Backbase watcher.
 # Installation
 
     $ npm install -g @nickthesing/bb-watch-cli
-    $ npm install -g @voles/bb-build-plugin-sass-fast
   
 # Usage
 
