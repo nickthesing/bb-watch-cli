@@ -1,6 +1,6 @@
 {
   "name": "@nickthesing/bb-watch-cli",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "CLI tool for Backbase watcher Edit",
   "main": "index.js",
   "scripts": {
