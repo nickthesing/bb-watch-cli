@@ -15,6 +15,6 @@ Inside the directory of a widget, theme or extension, run the following command.
 
 When making changes, the watcher will automatically package and import that widget, theme or extension.
 
-### Customize the bb-watch?
+#### Looking for options?
 
 Check out: https://github.com/nickthesing/bb-watch-cli-configuration
