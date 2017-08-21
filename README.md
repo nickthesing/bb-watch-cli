@@ -9,7 +9,7 @@ Example CLI tool for Backbase watcher.
   
 ## Usage
 
-Inside the directory of a widget, theme or extension, run the following command.
+Inside the directory of a widget, theme or extension, or the `src` directory of a collection, run the following command.
   
     $ bb-watch
 
